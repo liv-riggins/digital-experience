@@ -94,7 +94,7 @@
 }
 .carousel-control {
   position: absolute;
-  top: 0;
+  top: 72em;
   bottom: 15%;
   left: 0;
 	right: 0;
@@ -185,6 +185,7 @@ i {
 	color: #7a0019;
   display: inline-block;
 	position: absolute;
+	top:
 	bottom: 10em;
 	left: 4px;
 	right: 4px;
